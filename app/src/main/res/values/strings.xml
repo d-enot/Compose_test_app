@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose test app</string>
+    <string name="bottom_bar_soon">Soon</string>
+    <string name="bottom_bar_now">Now</string>
+</resources>
